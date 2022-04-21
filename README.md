@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=black"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=black"> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=Android Studio&logoColor=white"> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=black">
 
 
-<!--# 📫 How to reach me: ...
+<!-- # 📫 How to reach me: ...
 
 <img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://alstj-success.tistory.com/"> <a href="mailto:han8121449@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> -->
