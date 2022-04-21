@@ -16,8 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseokim0629&show_icons=true&theme=buefy) <!--[Solved.ac
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseokim0629&show_icons=true&theme=buefy) 
+<!--[Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=han8121449)](https://solved.ac/han8121449)-->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minseokim0629&layout=compact)
+
 
 # 🌱 Learning Skills
 ### Platforms & Languages
