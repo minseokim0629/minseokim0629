@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseokim0629&show_icons=true&theme=buefy) 
 ![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=han8121449)]
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=han8121449)
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minseokim0629&layout=compact)-->
 
 
