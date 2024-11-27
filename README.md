@@ -1,7 +1,5 @@
 ### Hi there 👋 
 
-<!--My name is minseo, a growing developer. -->
-
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome%2C+I'm+Minseo+Kim" alt="Typing SVG" /></a>
 </div>
@@ -10,6 +8,7 @@
   <img src="https://render.gitanimals.org/lines/minseokim0629?pet-id=1" width="1000" height="120"/>
 </a>
 
+My name is minseo, a growing developer.
 
 <!--**minseokim0629/minseokim0629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -25,9 +24,9 @@
 - ⚡ Fun fact: ...
 -->
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseokim0629&show_icons=true&theme=buefy) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseokim0629&show_icons=true&theme=buefy) 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=han8121449)](https://solved.ac/han8121449/) -->
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=han8121449)](https://solved.ac/han8121449/) -->
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minseokim0629&layout=compact)-->
 
