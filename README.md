@@ -1,6 +1,11 @@
 ### Hi there 👋 
 
 My name is minseo, a growing developer. 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/minseokim0629?pet-id=1" width="1000" height="120"/>
+</a>
+
 <!--
 **minseokim0629/minseokim0629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
