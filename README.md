@@ -2,7 +2,9 @@
 
 <!--My name is minseo, a growing developer. -->
 
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome%2C+I'm+Minseo+Kim" alt="Typing SVG" /></a>
+</div>
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/minseokim0629?pet-id=1" width="1000" height="120"/>
