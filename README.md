@@ -11,7 +11,7 @@
 <br/>
 <br/>
 My name is minseo, a growing developer.
-<br/>
+
 <!--**minseokim0629/minseokim0629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <!--Here are some ideas to get you started:
@@ -25,7 +25,8 @@ My name is minseo, a growing developer.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<br/>
+<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseokim0629&show_icons=true&theme=buefy) 
 
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=han8121449)](https://solved.ac/han8121449/) -->
