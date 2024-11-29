@@ -7,6 +7,8 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{minseokim0629}"/>
 </a>
+
+
 My name is minseo, a growing developer.
 
 <!--**minseokim0629/minseokim0629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
