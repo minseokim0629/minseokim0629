@@ -9,7 +9,7 @@
 </a>
 <a href="https://github.com/devxb/gitanimals">
 <img
-  src="https://render.gitanimals.org/farms/minseokim0629"
+  src="https://render.gitanimals.org/farms/{minseokim0629}"
 />
 </a>
 
